@@ -15,7 +15,7 @@ folder = "ressources"
 
 item = os.path.join(directory, folder, 'test5.jpg')
 food = os.path.join(directory, folder, 'food1.jpg')
-face = os.path.join(directory, folder 'face_test.jpg')
+face = os.path.join(directory, folder, 'face_test.jpg')
 
 def reco_item_default():
 
